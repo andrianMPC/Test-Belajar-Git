@@ -1,2 +1,4 @@
 ini adalah files baru untuk branch CD
 tambah fitur withdraw cash
+
+Tambah fungsi up ke git
