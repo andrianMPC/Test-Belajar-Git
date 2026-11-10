@@ -1,3 +1,22 @@
 ini adalah files baru untuk branch CD
+tambah fitur withdraw cash
+Tambah fitur di CD banyak 
+Lorem Ipsum color bla bla Lorem Ipsum color bla blaLorem Ipsum color bla bla
+Lorem Ipsum color bla bla Lorem Ipsum color bla bla Lorem Ipsum color bla bla
+Lorem Ipsum color bla bla Lorem Ipsum color bla blaLorem Ipsum color bla bla
+Lorem Ipsum color bla bla Lorem Ipsum color bla bla Lorem Ipsum color bla bla
+Lorem Ipsum color bla bla Lorem Ipsum color bla blaLorem Ipsum color bla bla
+Lorem Ipsum color bla bla Lorem Ipsum color bla bla Lorem Ipsum color bla bla
+Lorem Ipsum color bla bla Lorem Ipsum color bla blaLorem Ipsum color bla bla
+Lorem Ipsum color bla bla Lorem Ipsum color bla bla Lorem Ipsum color bla bla
+Lorem Ipsum color bla bla Lorem Ipsum color bla blaLorem Ipsum color bla bla
+Lorem Ipsum color bla bla Lorem Ipsum color bla bla Lorem Ipsum color bla bla
+Lorem Ipsum color bla bla Lorem Ipsum color bla blaLorem Ipsum color bla bla
+Lorem Ipsum color bla bla Lorem Ipsum color bla bla Lorem Ipsum color bla bla
+Lorem Ipsum color bla bla Lorem Ipsum color bla blaLorem Ipsum color bla bla
+Lorem Ipsum color bla bla Lorem Ipsum color bla bla Lorem Ipsum color bla bla
+
+Tambah fungsi up ke git
 Update kedua di file CD
 Update terbaru conflict
+Update terbaru coba test conflict
